@@ -1,6 +1,6 @@
-# clark-batch
+# batch-mailer
 
-Friendsurance code assignment
+Code assignment
 =============================
 
 - [LICENSE](#license)
