@@ -3,22 +3,22 @@
 Code assignment
 =============================
 
-- [LICENSE](#license)
+
 - [Introduction](#introduction)
 - [Batch Mails Processing Engine](#batch-mails-processing-engine)
   - [Context](#context)
   - [Description](#description)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Notes from IT](#notes-from-it)
-- [How to submit a solution](#how-to-submit-a-solution)
 
-LICENSE
-=============================
 
-Copyright (C) Alecto GmbH - All Rights Reserved
 
-Unauthorized copying of any content of this project via any medium is strictly prohibited.
-Proprietary and confidential.
+
+
+
+
+
+
 
 Introduction
 =============================
@@ -94,19 +94,19 @@ Finally, due to restrictions in the production environment the code will run on,
 to solve this problem - but you may use external libraries or tools for building or testing purposes (you are given a
 Maven project as a start point). For the same restrictions, your code must be Java 7 compliant.
 
-How to submit a solution
-=============================
 
-By now you should have read access to this repository. This allows you to fork this repository. Please use your forked repository to complete the assignment, creating a separate branch.
 
-*Note: We would like to keep our code assignment project private. This should not be a problem and it does not require any extra effort from you. All repositories forked from an already private repository are kept private too. So the only thing we ask you is not to republish it under a private repo.*
 
-Once everything is done and you are happy with results, please create a new pull request from your branch into master branch of *your private fork*. Please do not use original Friendsurance/batch repository as target for pull request.
 
-When pull request is ready, please, assign it to a person, who granted you access to Friendsurance/batch repository. Or simply send us an email with link to pull request.
-<br><br><br>
-Please, feel free to contact us with any questions regarding assignment or submission process. We would be happy to help!
+
+
+
+
+
+
+
+
 
 Good luck!  
-Friendsurance Dev Team
+
 
