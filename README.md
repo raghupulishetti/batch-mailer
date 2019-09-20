@@ -25,7 +25,7 @@ Introduction
 
 Hello and welcome fellow Coder!
 
-As part of our interview process we would like you to complete a programming assignment. It presents a hypothetical situation which resembles how you could be solving problems at Friendsurance. Please read the whole description thoroughly
+As part of our interview process we would like you to complete a programming assignment. It presents a hypothetical situation which resembles how you could be solving problems. Please read the whole description thoroughly
 then create a program to solve the problem at hand.
 
 For the solution, we request that you use Java as a programming language. The application must run and your solution should provide sufficient evidence that it is complete.
